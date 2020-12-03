@@ -1,4 +1,4 @@
-package com.sunggil.melons.ui.base
+package com.sunggil.basemvvm.ui
 
 import android.content.Context
 import android.util.AttributeSet
